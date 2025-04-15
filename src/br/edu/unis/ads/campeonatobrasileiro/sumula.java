@@ -3,6 +3,8 @@ class Sumula{
     String acontecimentos;
 
     Sumula(int cartao, String acontecimentos){
+        this.cartao=cartao;
+        this.acontecimentos=acontecimentos;
 
     }
     public int getCartão(){
