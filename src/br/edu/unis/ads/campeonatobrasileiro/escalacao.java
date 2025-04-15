@@ -3,6 +3,8 @@ class Escalacao{
     String reservas;
 
     Escalacao(String titular, String reservas){
+        this.titular=titular;
+        this.reservas=reservas;
         
     }
     public String getTitular() {
