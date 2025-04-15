@@ -32,6 +32,12 @@ class Torcedor{
     public void setJogosAssistidos(int jogosAssistidos){
         this.jogosAssistidos = jogosAssistidos;
     }
+    public String getTimeFavorito(){
+        return timeFavorito;
+    }
+    public void setTimeFavorito(String timeFavorito) {
+        this.timeFavorito = timeFavorito;
+    }
 }
 
 
