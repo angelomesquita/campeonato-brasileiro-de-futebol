@@ -6,9 +6,9 @@ class Torcedor{
     String timeFavorito;
 
     Torcedor(String nome, int idade, String nacionalidade, int jogosAssistidos, String timeFavorito){
-        this.nome=nome:
-        this.idade=idade;
-        this.nacionalidade-nacionalidade;
+        this.nome= nome:
+        this.idade= idade;
+        this.nacionalidade = nacionalidade;
         this.jogosAssistidos=jogosAssistidos;
         this.timeFavorito=timeFavorito;
 
