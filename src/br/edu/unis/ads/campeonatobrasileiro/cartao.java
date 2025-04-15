@@ -3,7 +3,7 @@ class Cartao{
     String participante;
     String jogo;
 
-    Cartao(String args[]){
+    Cartao(String cor, String jogo, String participante){
 
     }
 }

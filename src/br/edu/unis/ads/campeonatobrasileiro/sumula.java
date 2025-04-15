@@ -2,7 +2,7 @@ class Sumula{
     int cartao;
     String acontecimentos;
 
-    Sumula(int, String args[]){
+    Sumula(int cartao, String acontecimentos){
 
     }   
 }
