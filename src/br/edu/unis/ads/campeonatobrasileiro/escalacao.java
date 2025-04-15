@@ -1,8 +1,8 @@
 class Escalacao{
     String titular;
-    String Reservas;
+    String reservas;
 
-    Escalacao(String args[]){
+    Escalacao(String titular, String reservas){
         
     }
 }
