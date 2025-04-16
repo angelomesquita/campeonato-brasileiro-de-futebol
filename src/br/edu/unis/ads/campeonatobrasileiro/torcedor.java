@@ -1,9 +1,9 @@
 class Torcedor{
-    String nome;
-    int idade;
-    String nacionalidade;
-    int jogosAssistidos;
-    String timeFavorito;
+    Private String nome;
+    Private int idade;
+    Private String nacionalidade;
+    Private int jogosAssistidos;
+    Private String timeFavorito;
 
     Torcedor(String nome, int idade, String nacionalidade, int jogosAssistidos, String timeFavorito){
         this.nome= nome:

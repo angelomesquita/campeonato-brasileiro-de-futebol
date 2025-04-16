@@ -1,6 +1,6 @@
 class Escalacao{
-    String titular;
-    String reservas;
+   Private String titular;
+   Private String reservas;
 
     Escalacao(String titular, String reservas){
         this.titular=titular;

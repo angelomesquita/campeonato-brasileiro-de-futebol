@@ -1,6 +1,6 @@
 class Sumula{
-    int cartao;
-    String acontecimentos;
+   Private int cartao;
+   Private String acontecimentos;
 
     Sumula(int cartao, String acontecimentos){
         this.cartao=cartao;
