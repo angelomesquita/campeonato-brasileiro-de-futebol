@@ -1,3 +1,4 @@
+package br.edu.unis.ads.campeonatobrasileiro;
 import java.time.LocalDate;
 
 public class Arbitro {

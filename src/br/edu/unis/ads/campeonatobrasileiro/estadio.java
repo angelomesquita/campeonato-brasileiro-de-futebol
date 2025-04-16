@@ -1,11 +1,12 @@
-public class estadio {
+package br.edu.unis.ads.campeonatobrasileiro;
+public class Estadio {
     private String estado;
     private String cidade;
     private String endereco;
     private int lotacaoMaxima;
     private int quantidadeDeSegurancas;
 
-    public estadio(String estado, String cidade, String endereco, int lotacaoMaxima, int quantidadeDeSegurancas){
+    public Estadio(String estado, String cidade, String endereco, int lotacaoMaxima, int quantidadeDeSegurancas){
         this.estado = estado;
         this.cidade = cidade;
         this.endereco = endereco;
