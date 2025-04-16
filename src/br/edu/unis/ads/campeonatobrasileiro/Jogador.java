@@ -33,9 +33,12 @@ public void fazerPasse(boolean certo) {
 }
 public void exibirInformacoesJogador(){
     System.out.println("Nome: "+nome);
+
     System.out.println("Posição: "+ posicao);
     System.out.println("Numero da camisa: "+ numeroCamisa);
     System.out.println("Gols: "+ gols);
+
+
     
 }
  }
